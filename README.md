@@ -28,6 +28,11 @@ Course consist of
 
 [2018 plan](https://docs.google.com/spreadsheets/d/e/2PACX-1vQED4IwdOIDpr_h6e-k1BKvmH_Xq2l4FGPDfiJa8EPCVm5a7nWc1S1EMpOC5FbutaKBmVkuWzSLPiC8/pubhtml?gid=1805943559&single=true)
 
+## Prepared Reports
+
+| Speaker | Topic | Date | Presentation |
+| :-----: | :---: | :--- | :----------- |
+| V.Dimakov | Fastest Gaussian Blur | 2018 | [file]() |
 
 ## Repository Overview
 
