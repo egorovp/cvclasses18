@@ -32,7 +32,7 @@ Course consist of
 
 | Speaker | Topic | Date | Presentation |
 | :-----: | :---: | :--- | :----------- |
-| V.Dimakov | Fastest Gaussian Blur | 2018 | [file]( Fastest\ Gaussian\ Blur.pdf ) |
+| V.Dimakov | Fastest Gaussian Blur | 2018 | [file]( Fastest_Gaussian_Blur.pdf ) |
 
 ## Repository Overview
 
